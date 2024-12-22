@@ -151,7 +151,7 @@ public class BasicSpawner : MonoBehaviour, INetworkRunnerCallbacks
 - Sunucuya bağlandığımızı görebiliyoruz fakat henüz oluşturduğumuz prefabı spawn ettirecek kodu yazmadık.
 - Player prefabımızı oluşturup içerisine **Network Object** ve **Network Character Controller** özelliklerini ekliyoruz.
 - Tools > Fusion > Realtime Settings ayarlarından Fixed Region değerini girdiğinizden emin olun.
-- [Buradan PHotonEngine için Region seçeneklerini görebilirsiniz.](https://doc.photonengine.com/realtime/current/connection-and-authentication/regions)
+- [Buradan PhotonEngine için Region seçeneklerini görebilirsiniz.](https://doc.photonengine.com/realtime/current/connection-and-authentication/regions)
 - Şimdi daha önce yazmış olduğumuz BasicSpawner.cs dosyasını düzenleyebiliriz.
 
 ```c#
